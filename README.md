@@ -6,7 +6,8 @@ Please enter 2 currency scruties in lowercase letters and the amount of the firs
 for example.
 >ils,
 >usd,
->45,
+>45
+
 
 Checking the cache...
 Oh! It is in the cache!
