@@ -4,9 +4,10 @@ The point is that the program checked in the cache whether it has the exchange r
 and then it calculates how much money we will receive from a given currency on the road.
 Please enter 2 currency scruties in lowercase letters and the amount of the first currency when you give the currency with a capital letter is the program may not work
 for example.
->ils
->usd
->45
+>ils,
+>usd,
+>45,
+
 Checking the cache...
 Oh! It is in the cache!
 You received 13.22 USD.
