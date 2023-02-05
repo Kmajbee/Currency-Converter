@@ -9,7 +9,8 @@ for example.
 >45
 
 
- Output:Checking the cache...
+Output:
+Checking the cache...
 Oh! It is in the cache!
 You received 13.22 USD.
 
